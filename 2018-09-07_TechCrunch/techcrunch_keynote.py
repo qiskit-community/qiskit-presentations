@@ -18,7 +18,7 @@ def superposition():
     return HTML(html_img("superposition.gif"))
 
 def entanglement():
-    return HTML(html_video("entenglemant.mp4"))
+    return HTML(html_img("entenglemant.gif"))
 
 def interference():
     return HTML(html_img("interference.gif"))
@@ -48,18 +48,9 @@ def lab():
 
     return HTML(content)
 
-def quantum_architecture():
-    return HTML(html_img("execution.png"))
-
-def chemistry():
-    return HTML(html_img("chemistry.gif"))
-
-def experimentation():
-    return HTML(html_img("chemistry.gif"))
 
 def qx():
-
-    return HTML(html_link(html_video("qx.mp4"),
+    return HTML(html_link(html_img("qx.gif"),
                          'https://quantumexperience.ng.bluemix.net'))
 
     # return HTML(html_link(html_img("qx.jpg"),
@@ -96,9 +87,6 @@ print(sim_result.get_counts(qc))
 
         ''')
 
-def AI():
-    # return HTML(html_iframe("www/index.html"))
-    return HTML(html_img("Slide02.jpeg") + html_video("QAI.mp4"))
 
 def AI_execution(face):
     execute_AI(face)
@@ -115,10 +103,10 @@ def AI_execution(face):
         </pre>''')
 
 def quantum_execution():
-    return HTML(html_video("quantum_execution.mp4"))
+    return HTML(html_img("quantum_execution.gif"))
 
 def how_works():
-    return HTML(html_video("SVM.mp4")+html_img("QML1.jpg"))
+    return HTML(html_img("SVM.gif")+html_img("QML1.jpg"))
 
 def implementation():
     return HTML(html_img("implementation.jpg"))
@@ -203,10 +191,7 @@ def papers():
     return HTML(html_img("papers.jpg"))
 
 def executions():
-    return HTML(html_video_stop("executions-QX-complete.mp4"))
-
-def executions_qiskit():
-    return HTML(html_video_pause_stop("executions_qiskit.mp4"))
+    return HTML(html_img("executions-QX-complete.gif"))
 
 def thinking():
     return HTML(html_img('thinking.jpg'))

@@ -15,13 +15,13 @@ mode = "offline"
 print('Hello TechCrunch .... ')
 
 def superposition():
-    return HTML(html_video("superposition.mp4"))
+    return HTML(html_img("superposition.gif"))
 
 def entanglement():
     return HTML(html_video("entenglemant.mp4"))
 
 def interference():
-    return HTML(html_video("interference.mp4"))
+    return HTML(html_img("interference.gif"))
 
 def algorithm():
     return HTML(html_img("algorithm.jpg"))

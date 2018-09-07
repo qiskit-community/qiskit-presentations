@@ -50,11 +50,8 @@ def lab():
 
 
 def qx():
-    return HTML(html_link(html_img("qx.gif"),
+    return HTML(html_link(html_img("QX.gif"),
                          'https://quantumexperience.ng.bluemix.net'))
-
-    # return HTML(html_link(html_img("qx.jpg"),
-    #                      'https://quantumexperience.ng.bluemix.net/qx/devices'))
 
 def qiskit():
     URL = "https://qiskit.org"
@@ -187,7 +184,6 @@ def diagram_ML():
     return HTML(html_img("Slide02.jpeg"))
 
 def papers():
-    # return HTML(html_link(html_img("papers.jpg"),"https://quantumexperience.ng.bluemix.net/qx/community?channel=papers"))
     return HTML(html_img("papers.jpg"))
 
 def executions():

@@ -50,7 +50,7 @@ def lab():
 
 
 def qx():
-    return HTML(html_link(html_img("QX.gif"),
+    return HTML(html_link(html_video("QX.mp4"),
                          'https://quantumexperience.ng.bluemix.net'))
 
 def qiskit():

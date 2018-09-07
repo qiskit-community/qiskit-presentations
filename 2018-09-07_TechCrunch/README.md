@@ -1,5 +1,5 @@
 
-<img src="images/qiskit-heading.gif" >
+<img src="images/banner.jpg" >
 
 ***
 
@@ -16,7 +16,7 @@ In this repository, we've put together a Jupyter notebook aimed at teaching peop
 ## Installation and execute
 ### requeriments
 - Have installed [Python 3.x](https://www.python.org/downloads/) and [Jupyter notebooks](http://jupyter.org) or [Jupyter lab](https://github.com/jupyterlab/jupyterlab) , we recomend use anaconda because provide to you all the elements.
-- Install Qiskit: 
+- Install Qiskit:
 ```
 pip install qiskit
 ```

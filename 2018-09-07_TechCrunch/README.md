@@ -22,9 +22,9 @@ pip install qiskit
 ```
 ### execute
 ```
-jupyter notebook IBM_Q+Techcrunch.ipynb
+jupyter notebook Qiskit_Techcrunch.ipynb
 ```
 or is you use Jupyter Lab
 ```
-jupyter lab IBM_Q+Techcrunch.ipynb
+jupyter lab Qiskit_Techcrunch.ipynb
 ```

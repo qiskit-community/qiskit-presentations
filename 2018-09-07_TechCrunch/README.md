@@ -14,6 +14,8 @@ quantum computing programs and executing them on one of several backends (online
 quantum processors, online simulators, and local simulators). The online quantum
 processors connects to the [IBM Q devices](https://quantumexperience.ng.bluemix.net/qx/devices).
 
+[Preview](https://github.com/Qiskit/presentations/blob/master/2018-09-07_TechCrunch/Qiskit_Techcrunch.ipynb)
+
 ## Installation and execute
 
 ### Requeriments

@@ -1,4 +1,4 @@
-# Talk given at the OSCON 2018
+# Talk given at OSCON 2018
 
 [Preview](https://github.com/Qiskit/presentations/blob/master/2018-07-19_oscon_gambetta/talk.ipynb)
 

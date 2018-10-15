@@ -23,8 +23,8 @@ def git():
     return webbrowser.open("https://github.com/qiskit", new=0)
 
 def quantum():
-    return HTML('<img src="images/cat.jpg" width="500 px" align="center">')
-
+    return HTML('<img src="https://66.media.tumblr.com/763756ea907e30b639da239618bbe2d3/tumblr_mlotjw0e2C1r4xjo2o1_500.gif" width="500 px" align="center">')
+    
 def model():
     return HTML('<img src="images/model.jpg" width="1000 px" align="center">')
 

@@ -16,7 +16,7 @@ Anaconda because provide to you all the elements.
 jupyter notebook talk.ipynb
 ```
 
-or is you use Jupyter Lab
+or if you use Jupyter Lab
 
 ```
 jupyter lab talk.ipynb

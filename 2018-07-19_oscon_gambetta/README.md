@@ -24,4 +24,4 @@ jupyter lab talk.ipynb
 
 ## Thanks
 
-Thanks, omgcatsinspace for permission to use the quantum cat gif. 
+Thanks omgcatsinspace for permission to use the quantum cat gif. 

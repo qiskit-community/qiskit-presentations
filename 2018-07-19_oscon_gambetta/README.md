@@ -23,3 +23,7 @@ or is you use Jupyter Lab
 ```
 jupyter lab talk.ipynb
 ```
+
+### Thanks
+
+Thanks, omgcatsinspace for permission to use the quantum cat gif. 

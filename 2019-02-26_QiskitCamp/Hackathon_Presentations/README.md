@@ -1,9 +1,8 @@
 
-<img src="" >
+<img src="./images/QISKIT%20CAMP%20.001.jpeg" >
 
 ---
 
-# IBM Qiskit Camp 2019 
 
 Welcome to the presentation folder from the participants of Qiskit Camp 2019 in Vermont.
 

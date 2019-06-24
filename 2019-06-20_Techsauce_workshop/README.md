@@ -15,4 +15,3 @@ To participate in the workshop you need:
  - https://summit.techsauce.co/workshops/quantum-computing-with-qiskit/
  - https://quantum-computing.ibm.com
  - https://quantum-computing.ibm.com/support/guides/quantum-algorithms-with-qiskit
- -  https://github.com/1ucian0/qiskit-presentations/2019-06-20_Techsause_workshop/techsauce19.ipynb

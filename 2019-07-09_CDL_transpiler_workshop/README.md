@@ -12,10 +12,10 @@ This workshop was presented in [Creative Destruction Lab Toronto](https://www.cr
 
 To participate in the workshop you need:
 
- - A laptop with Python 3.5 or later and with [qiskit](https://pypi.org/project/qiskit/) and [jupyter](https://pypi.org/project/jupyter/) pip-installed.
+ - A laptop with Python 3.5 or later and with [qiskit 0.10.4](https://pypi.org/project/qiskit/) and [jupyter](https://pypi.org/project/jupyter/) pip-installed.
  - A user in [IBM Quantum Experience](https://quantum-computing.ibm.com).
  - [This notebook](cdl.ipynb)
 
 ## Relevant Links
  - https://quantum-computing.ibm.com
- 
+ - https://qiskit.org/documentation/terra/transpiler/getting_started.html

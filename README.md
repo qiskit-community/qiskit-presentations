@@ -5,6 +5,7 @@ Here you can find several presentations that have been given about Qiskit.
 
 ## 2021
 
+* [2021-04-16 - Introduction to Quantum Computing using Qiskit](./2021-08-17_equs_hackathon/)
 * [2021-04-16 - Quantum Computing - an introduction without the physics](./2021-04-16_monstar-lab_workshop/)
 * [2021-01-21 - Quantum Computing on OpenShift - IBM Cloud Day](./2021-01-21_IBM_Cloud_Day/)
 

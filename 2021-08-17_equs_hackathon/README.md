@@ -8,7 +8,7 @@ This workshop (around 1.5 hours) was presented by [Anna Phan](https://twitter.co
 
 ## Requirements
 
- - Qiskit version 0.18.1
+ - qiskit-terra 0.18.1
 
 
 ## Relevant Links

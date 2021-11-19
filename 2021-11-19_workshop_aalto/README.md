@@ -5,13 +5,18 @@ This workshop was performed in Aalto University (Helsinki, Finland), Nov 19th 20
 
 ## Agenda
 
+
 **Introduction to Qiskit**: basics, run first quantum circuits, transpiler  
 Luciano Bello
 
   * Notebook: `intro_transpiler.ipynb`
 
+***
+
 **Qiskit Nature**: chemistry, protein folding, natural sciences applications  
 Panos Barkoutsos
+
+***
  
 **Qiskit Pulse**: software control over quantum hardware  
 Lauren Capelluto
@@ -19,11 +24,19 @@ Lauren Capelluto
   * Slides: `Helsinki-seminar.pdf`
   * Demo: `intro-to-pulse-with-X-cal.ipynb`
 
+***
+
 **Qiskit Experiments and Qiskit Optimization**  
 Daniel Egger
 
+***
+
 **Exercises**  
 Elisa Baeumer
+
+  * Exercises: `exercises.zip`
+
+***
 
 ## Relevant Links
 

@@ -45,3 +45,8 @@ Elisa Baeumer
 * qiskit-terra repo: https://github.com/Qiskit/qiskit-terra/
 * qiskit-nature repo: https://github.com/Qiskit/qiskit-nature/
 * qiskit-experiments repo: https://github.com/Qiskit/qiskit-experiments
+
+
+## Slack channel
+
+https://qiskit.slack.com/archives/C02NPU2CRL0

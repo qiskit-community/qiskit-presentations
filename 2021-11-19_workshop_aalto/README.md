@@ -19,7 +19,7 @@ Lauren Capelluto
   * Slides: `Helsinki-seminar.pdf`
   * Demo: `intro-to-pulse-with-X-cal.ipynb`
 
-**Qiskit Experiments**: combinatorial optimization  
+**Qiskit Experiments and Qiskit Optimization**  
 Daniel Egger
 
 **Exercises**  

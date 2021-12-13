@@ -36,8 +36,7 @@ Panagiotis Barkoutsos, Dariusz Lasecki, Pauline Ollitrault,
 Max Rossmannek, and Ivano Tavernelli
 
 * Abstract: [`1_4_abstract.pdf`](1_4_abstract.pdf)
-* Workshop: 
-* Presentation:
+* Workshop and Presentations: [`EQTC-Workshop-Qiskit_Nature.zip`](EQTC-Workshop-Qiskit_Nature.zip)
 
 
 ## Relevant Links

@@ -12,15 +12,15 @@ Luciano Bello and Carmen Recio Valcarce
 
 * Abstract: [`1_1_abstract.pdf`](1_1_abstract.pdf)
 * Workshop: [`qiskit_intro.ipynb`](qiskit_intro.ipynb)
-* Presentation:
+* Presentation: [in mentimeter](https://www.mentimeter.com/s/6f44c7cc01ce7720f2ae1cbd63a605e8/a2782f0de7a6)
 
 ### Workshop 1.2 - Qiskit Machine Learning: Quantum algorithms for supervised learning
 
 Anton Dekusar and Julien Gacon
 
 * Abstract: [`1_2_abstract.pdf`](1_2_abstract.pdf)
-* Workshop: 
-* Presentation:
+* Workshop: [qiskit-machine-learning tutorials](https://qiskit.org/documentation/machine-learning/tutorials/index.html)
+* Presentation: [`Introduction_to_QML_for_supervised_learning.pptx`](Introduction_to_QML_for_supervised_learning.pptx)
 
 ### Workshop 1.3 - Qiskit Optimization: Quantum algorithms for applications of optimization
 
@@ -39,6 +39,3 @@ Max Rossmannek, and Ivano Tavernelli
 * Workshop and Presentations: [`EQTC-Workshop-Qiskit_Nature.zip`](EQTC-Workshop-Qiskit_Nature.zip)
 
 
-## Relevant Links
- - IBM Quantum Experience [https://quantum-computing.ibm.com]()
- - Qiskit [https://qiskit.org]()

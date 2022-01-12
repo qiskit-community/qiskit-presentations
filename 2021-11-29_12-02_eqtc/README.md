@@ -27,8 +27,8 @@ Anton Dekusar and Julien Gacon
 Takashi Imamichi and Atsushi Matsuo
 
 * Abstract: [`1_3_abstract.pdf`](1_3_abstract.pdf)
-* Workshop: 
-* Presentation:
+* Workshop: [`EQTC_Qiskit_Optimization.ipynb`]()
+* Presentation: [`EQTC_Qiskit_Optimization.pdf`]()
 
 ### Workshop 1.4 - Qiskit Nature: Quantum algorithms for applications on the natural sciences domain
 

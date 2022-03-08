@@ -2,6 +2,8 @@
 
 Here you can find several presentations that have been given about Qiskit.
 
+## 2022
+* [2022-02-02 - An Introduction to Quantum Coding with Qiskit](./2022-02-02_penn_state_workshop)
 
 ## 2021
 * [2021-11-29 - Introduction to Qiskit and its application modules](./2021-11-29_12-02_eqtc)

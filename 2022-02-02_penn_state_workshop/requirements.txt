@@ -1,0 +1,4 @@
+qiskit==0.34.1
+matplotlib==3.3.3
+numpy==1.21.0
+ipython==7.31.1

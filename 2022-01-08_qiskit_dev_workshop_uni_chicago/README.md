@@ -22,7 +22,7 @@ This workshop was performed in University of Chicago, Jan 8th 2022.
 
 ## Installation
 
-#### Getting IBM Q account and token
+#### Getting IBM Quantum account and token
 
 1. Go to https://quantum-computing.ibm.com/
 2. Register

@@ -41,8 +41,8 @@ conda activate qiskit-workshop
 ```
 3. In terminal: Install dependencies
 ```shell
-conda install jupyter matplotlib
-pip install qiskit pylatexenc
+conda install jupyter==1.0.0 matplotlib==3.5.1
+pip install qiskit==0.34.0 pylatexenc==2.10
 ```
 4. In terminal: launch jupyter
 ```shell

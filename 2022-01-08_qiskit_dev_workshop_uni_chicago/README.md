@@ -28,7 +28,7 @@ This workshop was performed in University of Chicago, Jan 8th 2022.
 2. Register
 3. On your welcome page you should see `API token` field which you can copy and use during lab
 
-#### Local jupter + qiskit setup
+#### Local Jupyter + Qiskit setup
 
 0. (if you do not have it already) [Install conda](https://www.anaconda.com/products/individual)
 1. In terminal: create a new conda env

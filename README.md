@@ -4,8 +4,10 @@ Here you can find several presentations that have been given about Qiskit.
 
 
 ## 2021
-
-* [2021-04-16 - Introduction to Quantum Computing using Qiskit](./2021-08-17_equs_hackathon/)
+* [2021-11-29 - Introduction to Qiskit and its application modules](./2021-11-29_12-02_eqtc)
+* [2021-11-19 - Quantum Music Playground](https://slides.com/javafxpert/quantum-music-playground)
+* [2021-11-19 - Qiskit transpiler, nature, pulse, experiments, and optimization modules (with exericises)](./2021-11-19_workshop_aalto)
+* [2021-08-17 - Introduction to Quantum Computing using Qiskit](./2021-08-17_equs_hackathon/)
 * [2021-04-16 - Quantum Computing - an introduction without the physics](./2021-04-16_monstar-lab_workshop/)
 * [2021-01-21 - Quantum Computing on OpenShift - IBM Cloud Day](./2021-01-21_IBM_Cloud_Day/)
 

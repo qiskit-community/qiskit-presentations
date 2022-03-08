@@ -4,5 +4,5 @@ qiskit-ibmq-provider==0.12.1
 matplotlib==3.3.3
 kaleidoscope==0.0.12
 tweedledum==0.1b0
-numpy==1.19.5
-ipython==7.19.0
+numpy==1.21.0
+ipython==7.31.1

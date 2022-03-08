@@ -2,6 +2,8 @@
 
 Here you can find several presentations that have been given about Qiskit.
 
+## 2022
+* [2022-01-08 - Qiskit workshop](./2022-01-08_qiskit_dev_workshop_uni_chicago)
 
 ## 2021
 * [2021-11-29 - Introduction to Qiskit and its application modules](./2021-11-29_12-02_eqtc)

@@ -2,6 +2,8 @@
 
 Here you can find several presentations that have been given about Qiskit.
 
+## 2022
+* [2022-03-09 - European Call Option Pricing using Quantum Computers](./2022-03-09_QIS_Oxford)
 
 ## 2021
 * [2021-11-29 - Introduction to Qiskit and its application modules](./2021-11-29_12-02_eqtc)

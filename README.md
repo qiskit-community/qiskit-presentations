@@ -3,6 +3,7 @@
 Here you can find several presentations that have been given about Qiskit.
 
 ## 2022
+* [2022-02-02 - An Introduction to Quantum Coding with Qiskit](./2022-02-02_penn_state_workshop)
 * [2022-03-09 - European Call Option Pricing using Quantum Computers](./2022-03-09_QIS_Oxford)
 
 ## 2021

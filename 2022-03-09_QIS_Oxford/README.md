@@ -1,6 +1,6 @@
 # European Call Option Pricing using Quantum Computers
 
-This workshop/presentation (around TBD hours) was performed by Carmen Recio Valcarce at [TBD](https://TBD.com/) on March 8th, 2022. 
+This workshop (around 2.5 hours) was performed by Carmen Recio Valcarce and Amin Karamlou at [Oxford University Quantum Information Society](https://www.facebook.com/events/1079864252579786/) on March 9th, 2022.
 
 European Call Option Pricing using Quantum Computers Qiskit tutorial showing European Call Option Pricing + Spin-echo Optimization
 

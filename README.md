@@ -4,6 +4,7 @@ Here you can find several presentations that have been given about Qiskit.
 
 ## 2022
 * [2022-05-31 - Fraunhofer IAO & IAF QC Education Program](https://github.com/HuangJunye/presentations/tree/master/2022-05-31%20Fraunhofer%20IAO%20%26%20IAF%20QC%20Education%20Program)
+* [2022--5-24 - Qiskit Runtime talk](https://github.com/HuangJunye/presentations/tree/master/2022-05-24%20Qiskit%20Runtime%20Talk)
 * [2022-03-09 - European Call Option Pricing using Quantum Computers](./2022-03-09_QIS_Oxford)
 * [2022-02-02 - An Introduction to Quantum Coding with Qiskit](./2022-02-02_penn_state_workshop)
 * [2022-01-08 - Qiskit workshop](./2022-01-08_qiskit_dev_workshop_uni_chicago)

@@ -3,7 +3,7 @@
 Here you can find several presentations that have been given about Qiskit.
 
 ## 2022
-* [2022-10-18 Qiskit Fall Fest Mexico](./2022-10-18_Qiskit-fall-fest-mexico)
+* [2022-10-18 - Qiskit Fall Fest Mexico](./2022-10-18_Qiskit-fall-fest-mexico)
 * [2022-05-31 - Fraunhofer IAO & IAF QC Education Program](https://github.com/HuangJunye/presentations/tree/master/2022-05-31%20Fraunhofer%20IAO%20%26%20IAF%20QC%20Education%20Program)
 * [2022-05-24 - Qiskit Runtime talk](https://github.com/HuangJunye/presentations/tree/master/2022-05-24%20Qiskit%20Runtime%20Talk)
 * [2022-03-09 - European Call Option Pricing using Quantum Computers](./2022-03-09_QIS_Oxford)
